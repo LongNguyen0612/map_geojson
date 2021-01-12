@@ -1,0 +1,705 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.83137,
+                    21.01147
+                ]
+            },
+            "properties": {
+                "Address": "Bảo Khánh, Phố Đặng Văn Ngữ 111D1, Quận Đống Đa, Việt Nam",
+                "name": "Bảo Khánh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.81552,
+                    21.00919
+                ]
+            },
+            "properties": {
+                "Address": "Quán Bia, Ngách 2 Ngõ Thái Thịnh 1, Quận Đống Đa, Việt Nam",
+                "name": "Quán Bia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82138,
+                    21.00671
+                ]
+            },
+            "properties": {
+                "Address": "Quán Cơm-Lẩu Thập Cẩm Và Bia, Phố Thái Thịnh 27, Quận Đống Đa, Việt Nam",
+                "name": "Quán Cơm-Lẩu Thập Cẩm Và Bia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82518,
+                    21.02152
+                ]
+            },
+            "properties": {
+                "Address": "Henninger Brewery, Đường La Thành 270, Quận Đống Đa, Việt Nam",
+                "name": "Henninger Brewery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.80786,
+                    21.00859
+                ]
+            },
+            "properties": {
+                "Address": "Mường Động Quán, Phố Hoàng Ngân, Quận Cầu Giấy, Việt Nam",
+                "name": "Mường Động Quán"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.81777,
+                    21.027
+                ]
+            },
+            "properties": {
+                "Address": "Nam Béo, Phố Ngọc Khánh 84, Quận Ba Đình, Việt Nam",
+                "name": "Nam Béo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82703,
+                    21.02497
+                ]
+            },
+            "properties": {
+                "Address": "Quán Bia Việt Hà, Phố Hào Nam 115, Quận Đống Đa, Việt Nam",
+                "name": "Quán Bia Việt Hà"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.81279,
+                    21.00795
+                ]
+            },
+            "properties": {
+                "Address": "Quán Bia Việt Hà, Phố Quan Nhân 9, Quận Thanh Xuân, Việt Nam",
+                "name": "Quán Bia Việt Hà"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82204,
+                    21.01113
+                ]
+            },
+            "properties": {
+                "Address": "Quán Bia Hơi Hà Nội, Phố Thái Hà 74, Quận Đống Đa, Việt Nam",
+                "name": "Quán Bia Hơi Hà Nội"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82913,
+                    21.01951
+                ]
+            },
+            "properties": {
+                "Address": "Quán Bia Việt Hà, Đường La Thành 70, Quận Đống Đa, Việt Nam",
+                "name": "Quán Bia Việt Hà"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82154,
+                    21.01895
+                ]
+            },
+            "properties": {
+                "Address": "Quán Bia Lẩu, Phố Mai Anh Tuấn 40, Quận Đống Đa, Việt Nam",
+                "name": "Quán Bia Lẩu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.83389,
+                    21.01925
+                ]
+            },
+            "properties": {
+                "Address": "Quán Phương Mai, Phố Khâm Thiên 213, Quận Đống Đa, Việt Nam",
+                "name": "Quán Phương Mai"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.81534,
+                    20.99945
+                ]
+            },
+            "properties": {
+                "Address": "Bia Việt Hà, Đường Nguyễn Trãi 129, Quận Thanh Xuân, Việt Nam",
+                "name": "Bia Việt Hà"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.83977,
+                    21.01904
+                ]
+            },
+            "properties": {
+                "Address": "Quần Áo Việt Hà, Ngõ Thiên Hùng Phố Khâm Thiên, Quận Đống Đa, Việt Nam",
+                "name": "Quần Áo Việt Hà"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.83327,
+                    21.01532
+                ]
+            },
+            "properties": {
+                "Address": "Bia Tiệp, Phố Xã Đàn, Quận Đống Đa, Việt Nam",
+                "name": "Bia Tiệp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82662,
+                    21.02203
+                ]
+            },
+            "properties": {
+                "Address": "Cafe Hương Linh, Phố Hào Nam 22, Quận Đống Đa, Việt Nam",
+                "name": "Cafe Hương Linh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82817,
+                    21.01495
+                ]
+            },
+            "properties": {
+                "Address": "Quán Bia Hơi Hoàng Béo, Phố Nguyễn Lương Bằng 181, Quận Đống Đa, Việt Nam",
+                "name": "Quán Bia Hơi Hoàng Béo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8307,
+                    21.02038
+                ]
+            },
+            "properties": {
+                "Address": "Quán Bia Hà Nội, Phố Tôn Đức Thắng 268, Quận Đống Đa, Việt Nam",
+                "name": "Quán Bia Hà Nội"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.80991,
+                    21.0046
+                ]
+            },
+            "properties": {
+                "Address": "Quán Bia Ao Sen, Ngách 144/4 Phố Quan Nhân, Quận Thanh Xuân, Việt Nam",
+                "name": "Quán Bia Ao Sen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.80582,
+                    21.00691
+                ]
+            },
+            "properties": {
+                "Address": "Quán Bia Hơi, Phố Nguyễn Thị Định 28, Quận Thanh Xuân, Việt Nam",
+                "name": "Quán Bia Hơi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82214,
+                    21.00615
+                ]
+            },
+            "properties": {
+                "Address": "Nhà Khách Thái Thịnh, Phố Thái Thịnh 20, Quận Đống Đa, Việt Nam",
+                "name": "Nhà Khách Thái Thịnh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82232,
+                    21.01328
+                ]
+            },
+            "properties": {
+                "Address": "Quán Nhậu, Phố Trung Liệt 1, Quận Đống Đa, Việt Nam",
+                "name": "Quán Nhậu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.81104,
+                    21.00343
+                ]
+            },
+            "properties": {
+                "Address": "Phố Quan Nhân, Quận Thanh Xuân, Việt Nam",
+                "name": "Phố Quan Nhân, Quận Thanh Xuân, Việt Nam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.81189,
+                    21.00823
+                ]
+            },
+            "properties": {
+                "Address": "Ngõ 46 Phố Quan Nhân, Quận Cầu Giấy, Việt Nam",
+                "name": "Ngõ 46 Phố Quan Nhân, Quận Cầu Giấy, Việt Nam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.81141,
+                    21.00759
+                ]
+            },
+            "properties": {
+                "Address": "Ngõ 68 Phố Quan Nhân, Quận Cầu Giấy, Việt Nam",
+                "name": "Ngõ 68 Phố Quan Nhân, Quận Cầu Giấy, Việt Nam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8178,
+                    21.02633
+                ]
+            },
+            "properties": {
+                "Address": "Pizza Express, Phố Ngọc Khánh 94, Quận Ba Đình, Việt Nam",
+                "name": "Pizza Express"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8116,
+                    21.0081
+                ]
+            },
+            "properties": {
+                "Address": "Ngõ 52 Phố Quan Nhân, Quận Cầu Giấy, Việt Nam",
+                "name": "Ngõ 52 Phố Quan Nhân, Quận Cầu Giấy, Việt Nam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.80963,
+                    21.00395
+                ]
+            },
+            "properties": {
+                "Address": "Ngõ 144 Phố Quan Nhân, Quận Thanh Xuân, Việt Nam",
+                "name": "Ngõ 144 Phố Quan Nhân, Quận Thanh Xuân, Việt Nam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.81268,
+                    21.00791
+                ]
+            },
+            "properties": {
+                "Address": "Phố Quan Nhân, Quận Cầu Giấy, Việt Nam",
+                "name": "Phố Quan Nhân, Quận Cầu Giấy, Việt Nam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.81992,
+                    21.01294
+                ]
+            },
+            "properties": {
+                "Address": "Quán Nhậu - Thái Hà, Phố Thái Hà 125, Quận Đống Đa, Việt Nam",
+                "name": "Quán Nhậu - Thái Hà"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82518,
+                    21.02152
+                ]
+            },
+            "properties": {
+                "Address": "Henninger Brewery, Đường La Thành 270, Quận Đống Đa, Việt Nam",
+                "name": "Henninger Brewery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.81237,
+                    21.00467
+                ]
+            },
+            "properties": {
+                "Address": "Ngõ 145 Phố Quan Nhân, Quận Thanh Xuân, Việt Nam",
+                "name": "Ngõ 145 Phố Quan Nhân, Quận Thanh Xuân, Việt Nam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.821,
+                    21.004
+                ]
+            },
+            "properties": {
+                "Address": "Nhậu Phú Lỉnh, Phố Tây Sơn 412, Quận Đống Đa, Việt Nam",
+                "name": "Nhậu Phú Lỉnh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.81423,
+                    21.00758
+                ]
+            },
+            "properties": {
+                "Address": "Ngõ 1 Phố Quan Nhân, Quận Thanh Xuân, Việt Nam",
+                "name": "Ngõ 1 Phố Quan Nhân, Quận Thanh Xuân, Việt Nam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.83805,
+                    21.02002
+                ]
+            },
+            "properties": {
+                "Address": "Phương Linh, Ngõ Trung Tiền Phố Khâm Thiên, Quận Đống Đa, Việt Nam",
+                "name": "Phương Linh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.81229,
+                    21.00591
+                ]
+            },
+            "properties": {
+                "Address": "Ngõ 89 Phố Quan Nhân, Quận Thanh Xuân, Việt Nam",
+                "name": "Ngõ 89 Phố Quan Nhân, Quận Thanh Xuân, Việt Nam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82512,
+                    20.99686
+                ]
+            },
+            "properties": {
+                "Address": "Quán Nhậu Lão Mộc, Phố Hoàng Văn Thái 138, Quận Thanh Xuân, Việt Nam",
+                "name": "Quán Nhậu Lão Mộc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.81249,
+                    21.00534
+                ]
+            },
+            "properties": {
+                "Address": "Ngõ 109 Phố Quan Nhân, Quận Thanh Xuân, Việt Nam",
+                "name": "Ngõ 109 Phố Quan Nhân, Quận Thanh Xuân, Việt Nam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.81148,
+                    21.00786
+                ]
+            },
+            "properties": {
+                "Address": "Ngách 52/19 Phố Quan Nhân, Quận Cầu Giấy, Việt Nam",
+                "name": "Ngách 52/19 Phố Quan Nhân, Quận Cầu Giấy, Việt Nam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.81268,
+                    21.00825
+                ]
+            },
+            "properties": {
+                "Address": "Ngõ 24 Phố Quan Nhân, Quận Cầu Giấy, Việt Nam",
+                "name": "Ngõ 24 Phố Quan Nhân, Quận Cầu Giấy, Việt Nam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82266,
+                    21.01334
+                ]
+            },
+            "properties": {
+                "Address": "Thanh Mai - Bia Hơi Hà Nội, Phố Đặng Tiến Đông 161, Quận Đống Đa, Việt Nam",
+                "name": "Thanh Mai - Bia Hơi Hà Nội"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8216,
+                    21.0116
+                ]
+            },
+            "properties": {
+                "Address": "Hoàng Gia Karaoke, Phố Thái Hà 106, Quận Đống Đa, Việt Nam",
+                "name": "Hoàng Gia Karaoke"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82069,
+                    21.01418
+                ]
+            },
+            "properties": {
+                "Address": "Karaoke 178, Ngách 39 Ngõ 178 Phố Thái Hà, Quận Đống Đa, Việt Nam",
+                "name": "Karaoke 178"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.81997,
+                    21.01246
+                ]
+            },
+            "properties": {
+                "Address": "Quán Bia Hơi Cổng Vòm, Ngõ 117 Phố Thái Hà, Quận Đống Đa, Việt Nam",
+                "name": "Quán Bia Hơi Cổng Vòm"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.81982,
+                    21.01322
+                ]
+            },
+            "properties": {
+                "Address": "Feeling Coffee, Phố Thái Hà 178, Quận Đống Đa, Việt Nam",
+                "name": "Feeling Coffee"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8236,
+                    21.01447
+                ]
+            },
+            "properties": {
+                "Address": "Cây Thông Quán, Phố Trần Quang Diệu 84, Quận Đống Đa, Việt Nam",
+                "name": "Cây Thông Quán"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82367,
+                    21.01453
+                ]
+            },
+            "properties": {
+                "Address": "1991 Coffee Hub, Phố Trần Quang Diệu 82, Quận Đống Đa, Việt Nam",
+                "name": "1991 Coffee Hub"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.81928,
+                    21.01343
+                ]
+            },
+            "properties": {
+                "Address": "Bar Karaoke Mưa Hồng, Phố Thái Hà 135, Quận Đống Đa, Việt Nam",
+                "name": "Bar Karaoke Mưa Hồng"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82047,
+                    21.01506
+                ]
+            },
+            "properties": {
+                "Address": "Quán Nhậu Bia Hơi Hà Nội 237 - Đặng Tiến Đông, Phố Đặng Tiến Đông 229, Quận Đống Đa, Việt Nam",
+                "name": "Quán Nhậu Bia Hơi Hà Nội 237 - Đặng Tiến Đông"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82008,
+                    21.01099
+                ]
+            },
+            "properties": {
+                "Address": "Mộc Quán, Phố Trung Liệt 116, Quận Đống Đa, Việt Nam",
+                "name": "Mộc Quán"
+            }
+        }
+    ]
+}
