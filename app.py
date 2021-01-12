@@ -4,7 +4,7 @@ import requests
 places = ["quán bia", "quán nhậu", "quán bar", "nhà hàng"]
 radius = 2000
 lat, lng = 21.012985, 105.821839
-api = "hhzurBPwdEprgldlJm_3DlSTfnTPh0MXV-TVfPfL8f8"
+api = ""
 N = 50
 
 
@@ -53,8 +53,6 @@ def solve(N, place):
 
     with open("pymi_beer.geojson", "wt", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=4)
-
-    return
 
 
 def main():
